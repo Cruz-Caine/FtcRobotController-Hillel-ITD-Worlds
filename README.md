@@ -1,3 +1,5 @@
+Gilly if you have trouble cloneing the repo use this command `git config --global core.compression 0`
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
